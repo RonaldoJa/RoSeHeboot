@@ -462,7 +462,7 @@ def buyrt_vuelo(update, context):
 
 if __name__== '__main__':
 
-    updater = Updater(token='1615424002:AAEWBM8wQeQD69EuJzWEsmeLsUBsNwgwuIw', use_context=True)
+    updater = Updater(token='YOUR TOKEN', use_context=True)
 
     dp = updater.dispatcher
 
